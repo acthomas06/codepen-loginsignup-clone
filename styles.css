@@ -53,7 +53,7 @@ nav  a{
 	text-decoration: none;
 }
 
-nav a.active {
+.active {
 	color: white;
 	border-bottom: 2px solid white;
 	position: relative;
